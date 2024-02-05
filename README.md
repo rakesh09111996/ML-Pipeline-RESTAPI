@@ -38,6 +38,6 @@ Classification Report:
     weighted avg   0.96      0.96      0.96       422
     accuracy                           0.96       422
     
-[ML model implemented with RestAPI](https://rakesh09111996.github.io/ML_RestAPI_Pipeline/)
+[ML model implemented with RestAPI](https://rakesh09111996.github.io/ML-pipeline-implemented-with-RestAPI/)
 
 
