@@ -16,7 +16,7 @@ Initially Kmeans and GMM model were implemented, but these are unsupervised mode
 
 ## Rest Api
 After preprocessing and training the model, both preprocessing step and model have been saved so that real time data is preprocessed and predicted to share the results. The Server whenever receives data from client machine via REST API 'POST' method, preprocess it and then predict the obesity level based on saved Gradient boost classifier and send it back.
-![alt_text](https://github.com/rakesh09111996/ML_RestAPI_Pipeline/blob/130881fa4020f182b0ec910a7db59380a2505388/Restapi.png)
+![alt_text](https://github.com/rakesh09111996/ML-Pipeline-RESTAPI/blob/59b4044e21ac5738e7efb1651a2427b1976e4266/Restapi.png)
 
 The advantages of REST APIs lie in their simplicity, flexibility, and wide support across different platforms and languages. These characteristics make REST a popular choice for designing and implementing web services that need to be scalable, efficient, and easy to integrate.
 
@@ -40,8 +40,4 @@ Classification Report:
     
 [ML model implemented with RestAPI](https://rakesh09111996.github.io/ML_RestAPI_Pipeline/)
 
-[Server code](https://github.com/rakesh09111996/ML_RestAPI_Pipeline/tree/backend)
 
-[Frontend code](https://github.com/rakesh09111996/ML_RestAPI_Pipeline/tree/web)
-
-[Model Training](https://github.com/rakesh09111996/ML_RestAPI_Pipeline/tree/code)
